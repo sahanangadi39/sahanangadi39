@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing B.Tech in Software Engineering at Jain University.<br>🌐 Skilled in web and app development.<br>☁️ Proficient in cloud computing.<br>🖥️ Experienced in system software development.<br>⚛️ Enthusiastic about quantum computing.<br>🏆 Active in competitive programming during free time.
+🌐 Skilled in web and app development.<br>☁️ Proficient in cloud computing.<br>🖥️ Experienced in system software development.<br>⚛️ Enthusiastic about quantum computing.<br>🏆 Active in competitive programming during free time.
 
 
 # 💻 Tech Stack:
